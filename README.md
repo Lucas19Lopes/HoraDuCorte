@@ -40,11 +40,11 @@ Francisco Lucas Lopes Araujo, 476826, Redes de Computadores.
 - Strapi
 
 ## Operações implementadas para cada entidade da aplicação
-| Entidade                | Criação | Leitura | Atualização | Remoção |
-| Usuario não registrado  |         |    X    |             |         |
-| Cliente                 |    X    |    X    |             |         |
-| Barbeiro                |    X    |    X    |      X      |         |
-| Administrador           |    X    |    X    |      X      |    X    |
+| Entidade  | Criação  |  Leitura  |  Atualização  |  Remoção  |
+| Usuario não registrado  |  |  X  |  |  |
+| Cliente  |  X  |  X  |  |  |
+| Barbeiro  |  X  |  X  |  X  |  |
+| Administrador  |  X  |  X  |  X  |  X  |
 
 
 ## Rotas da API REST utilizadas
